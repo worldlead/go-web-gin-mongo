@@ -13,7 +13,7 @@ import (
 )
 
 // Your MongoDB Atlas Connection String
-const uri = "mongodb+srv://procosep:pAPGFRef92rHwsbT@cluster0.l2oxzhu.mongodb.net/?retryWrites=true&w=majority"
+const uri = ""
 
 var mongoClient *mongo.Client
 
